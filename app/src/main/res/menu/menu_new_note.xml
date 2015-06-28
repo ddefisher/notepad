@@ -1,0 +1,19 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:app="http://schemas.android.com/apk/res-auto"
+xmlns:tools="http://schemas.android.com/tools" tools:context="com.mycompany.notepad">
+
+<item android:id="@+id/action_settings"
+      android:title="@string/action_settings"
+      android:orderInCategory="100"
+      app:showAsAction="never" />
+
+<item android:id="@+id/action_saveNote"
+      android:title="@string/action_saveNote"
+      android:orderInCategory="100"
+      app:showAsAction="never" />
+
+<item android:id="@+id/action_discardNote"
+    android:title="@string/action_discardNote"
+    android:orderInCategory="100"
+    app:showAsAction="never" />
+</menu>
