@@ -13,7 +13,7 @@
             android:inputType="textLongMessage|textCapSentences|textMultiLine"
             android:textAlignment="gravity"
             android:autoText="false"
-            android:textColor="#ff58ff6d"
+            android:textColor="#ff29b3ff"
             android:background="#ff494c49" />
 
     </ScrollView>

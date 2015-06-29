@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:gravity="left"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+
+    <TextView
+        android:id="@+id/list_content"
+        android:textColor="#ff29b3ff"
+        android:gravity="left"
+        android:text="sample"
+        android:layout_margin="4dip"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textAlignment="gravity"
+        />
+
+</LinearLayout>
